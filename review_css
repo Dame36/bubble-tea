@@ -1,0 +1,43 @@
+#ma{
+    text-shadow: 5px 5px #FFFFCC;
+}
+
+#header{
+    text-shadow: 5px 5px #FFFFCC;
+}
+
+
+button{
+    display: inline-block;
+    border: 0;
+    cursor: pointer;
+    background-color : #FF9999;
+    padding: 20px 40px;
+}
+
+
+.imgtransparent
+
+{
+
+opacity:1.0;
+
+filter:alpha(opacity=100);
+
+}
+
+.imgtransparent:hover
+
+{
+
+opacity:0.4;
+
+filter:alpha(opacity=40);
+
+}
+
+h1{
+
+border: 900px 900px solid red;
+padding: 900px 900ox;
+}
