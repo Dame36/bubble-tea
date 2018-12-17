@@ -46,7 +46,7 @@ padding: 900px 900ox;
     display: inline-block;
     border: 0;
     cursor: pointer;
-    background-color : #FF99CC;
+    background-color : #CFCFCF;
     padding: 40px 40px;
     border-radius:12px
 }
@@ -55,7 +55,7 @@ padding: 900px 900ox;
     display: inline-block;
     border: 0;
     cursor: pointer;
-    background-color : #FFCC00;
+    background-color : #CFCFCF;
     padding: 40px 40px;
     border-radius:12px
 }
@@ -65,7 +65,7 @@ padding: 900px 900ox;
     display: inline-block;
     border: 0;
     cursor: pointer;
-    background-color : #00CCCC;
+    background-color : #CFCFCF;
     padding: 40px 40px;
     border-radius:12px
 }
@@ -74,7 +74,7 @@ padding: 900px 900ox;
     display: inline-block;
     border: 0;
     cursor: pointer;
-    background-color : #CC99FF;
+    background-color : #CFCFCF;
     padding: 40px 40px;
     border-radius:12px
 }
@@ -92,14 +92,14 @@ padding: 900px 900ox;
     display: inline-block;
     border: 0;
     cursor: pointer;
-    background-color : #FF9966;
+    background-color : #CFCFCF;
     padding: 40px 40px;
     border-radius:12px
 }
 
 #about1{
     display: inline-block;
-    border: 0 ;
+    border: 2px #FFCCCC ;
     cursor: pointer;
     background: #CFCFCF;
     padding: 20px 20px;
@@ -108,7 +108,7 @@ padding: 900px 900ox;
 
 #about{
     display: inline-block;
-    border: 2 ;
+    border: 0px ;
     cursor: pointer;
     background: #CFCFCF;
     padding: 20px 40px;
@@ -127,7 +127,29 @@ padding: 900px 900ox;
     display: inline-block;
     border: 2 ;
     cursor: pointer;
-    background: #CFCFCF;
+    background: #FFFFFF;
     padding: 40px 40px;
-    border-radius:20px
+    border-radius:28px
+}
+
+#click{
+    display: inline-block;
+    border: 2 ;
+    cursor: pointer;
+    background: #FF6699;
+    padding: 20px 20px;
+    border-radius:2px
+}
+
+#mem{
+    text-shadow: #FFFF99;
+}
+
+#member{
+    display: inline-block;
+    border: 2 ;
+    cursor: pointer;
+    background: #FFFFFF;
+    padding: 70px 70px;
+    border-radius:28px
 }
